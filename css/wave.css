@@ -30,7 +30,7 @@
 #banner_wave_1 {
     width:auto;
     height:65px;
-    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn/img/wave/wave1.png") repeat-x;
+    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn@1.0/img/wave/wave1.png") repeat-x;
     _filter:alpha(opacity=80);
     position:absolute;
     bottom:0;
@@ -45,7 +45,7 @@
 #banner_wave_2 {
     width:auto;
     height:80px;
-    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn/img/wave/wave2.png") repeat-x;
+    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn@1.0/img/wave/wave2.png") repeat-x;
     _filter:alpha(opacity=80);
     position:absolute;
     bottom:0;
@@ -99,7 +99,7 @@
 #banner_wave_1 {
     width:auto;
     height:65px;
-    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn/img/wave/wave1.png") repeat-x;
+    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn@1.0/img/wave/wave1.png") repeat-x;
     _filter:alpha(opacity=80);
     position:absolute;
     bottom:0;
@@ -114,7 +114,7 @@
 #banner_wave_2 {
     width:auto;
     height:80px;
-    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn/img/wave/wave2.png") repeat-x;
+    background:url("https://cdn.jsdelivr.net/gh/thatania/cdn@1.0/img/wave/wave2.png") repeat-x;
     _filter:alpha(opacity=80);
     position:absolute;
     bottom:0;
